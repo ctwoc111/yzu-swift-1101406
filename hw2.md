@@ -71,4 +71,4 @@ struct ContentView: View
 
 ```
 
-<img src="https://raw.githubusercontent.com/ctwoc111/yzu-swiftui-1101406/main/SwiftUI_record_hw2.mp4">
+<img src="https://raw.githubusercontent.com/ctwoc111/yzu-swiftui-1101406/main/IMG_0051.gif">
