@@ -33,4 +33,4 @@ struct ContentView: View
 }
 
 ```
-<img src="https://raw.githubusercontent.com/ncudemo/yzu-swiftui-1101406/main/Swift_hw1.PNG">
+<img src="https://raw.githubusercontent.com/ncudemo/yzu-swiftui-1101406/main/IMG_0038.jpeg">
