@@ -88,4 +88,4 @@ struct CharactersView2: View{
 
 ```
 
-<img src="https://raw.githubusercontent.com/ctwoc111/yzu-swiftui-1101406/main/IMG_0046.jpeg">
+<img src="https://raw.githubusercontent.com/ctwoc111/yzu-swiftui-1101406/main/IMG_0064.jpeg">
